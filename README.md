@@ -12,17 +12,16 @@ My work focuses on bridging **AI reasoning, automation, and data intelligence** 
 - Build **RAG (Retrieval-Augmented Generation)** pipelines using **Qdrant**, **Pinecone**, and **Vector Embeddings**
 - Develop scalable **AI backends** with **FastAPI**, **Docker**, and **MLOps pipelines**
 - Integrate **LLMs (GPT, Gemini, Claude)** for custom AI workflows, chatbots, and assistants
-- Deploy interactive **Streamlit** & **React** dashboards for AI demonstrations and research
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### **Programming Languages**
-Python | Java | JavaScript | SQL | HTML | CSS  
+Python | SQL
 
 #### **Frameworks & Libraries**
-FastAPI | Flask | Streamlit | React | Node.js | LangChain | LangGraph | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | NLTK | OpenCV | Hugging Face Transformers  
+FastAPI | LangChain | LangGraph | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | NLTK | OpenCV | Hugging Face Transformers  
 
 #### **AI, ML & NLP**
 LLMs (GPT, Gemini, Claude, Mistral) | RAG Pipelines | Multi-Agent Systems | Prompt Engineering | Time-Series Analysis | Deep Learning | Text Summarization | Sentiment Analysis | Feature Engineering | Model Evaluation | Data Visualization | Chatbot Design  
@@ -48,8 +47,6 @@ API Integration | Workflow Automation | LLM Fine-tuning | Model Deployment | AI 
 **Email:** [sklegacy789@gmail.com](mailto:sklegacy789@gmail.com)  
 **LinkedIn:** [linkedin.com/in/sumitkumar22](https://linkedin.com/in/sumitkumar22)  
 **Portfolio:** [sumit22012004.github.io/Portfolio](https://sumit22012004.github.io/Portfolio)  
-**Resume:** [View Resume (PDF)](https://github.com/Sumit22012004/Sumit-Kumar-Resume.pdf)  
-**GitHub:** [github.com/Sumit22012004](https://github.com/Sumit22012004)
 
 ---
 
