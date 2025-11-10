@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey — I’m Sumit (SUMIT KUMAR) 👋
+AI Engineer | Multi-agent systems, RAG, and production-ready LLM integrations.
 
-<!--
-**Sumit22012004/Sumit22012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experience: RAG, LangChain/LangGraph, Qdrant, Pinecone, FastAPI, Streamlit.  
+📫 Email: sklegacy789@gmail.com | LinkedIn: https://www.linkedin.com/in/sumitkumar22  
+🌐 Portfolio: https://your-portfolio-url.com
 
-Here are some ideas to get you started:
+## Featured projects
+- **Intelligent-Multi-Agent-Research-Assistant** — Autonomous academic research (Streamlit + FastAPI + Qdrant).
+- **Portfolio** — React portfolio with demos and deployment.
+- **Automated-Language-Translation** — NLP POC: translation + personality prediction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Open to: AI Engineer / MLOps roles, POC collaborations, and mentoring.
