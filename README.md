@@ -33,7 +33,7 @@ Data Warehouse Design | ETL Pipelines | Data Preprocessing | CSV/Excel/JSON Hand
 MySQL | PostgreSQL | MongoDB | Pinecone | Qdrant | FAISS | Chroma | SQLite  
 
 #### **Cloud & DevOps**
-AWS | Docker | GitHub Actions | CI/CD
+AWS | Azure | Docker | GitHub Actions | CI/CD
 
 #### **Tools & Utilities**
 VS Code | Jupyter Notebook | Git | Postman
